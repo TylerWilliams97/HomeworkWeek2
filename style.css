@@ -3,14 +3,10 @@
 }
 
 footer{
-    position: absolute;
+ padding-top: 10px;
  bottom: 10px;
  width: 100%;
  text-align: center;
-}
-
-.jumbofix{
-    padding: 100px;
 }
 
 form{
@@ -41,20 +37,11 @@ main{
     position: relative;
     min-height: 100vh;
   }
-.aboutme{
-    padding-left: 40px;
-    padding-top: 10px;
 
-}
 .line{
     border-top: 1px solid gray;
 }
 .bio{
     padding-left: 50px;
     padding-right: 250px;
-}
-.aboutmepos{
-    position: absolute;
-    bottom: 100px;
-    padding: 25px;
 }
